@@ -1,3 +1,4 @@
+# Credits to: Liz Petrov in her article https://makezine.com/projects/sms-bot/
 # libraries
 from flask import Flask, request
 from twilio.twiml.messaging_response import Message, MessagingResponse
