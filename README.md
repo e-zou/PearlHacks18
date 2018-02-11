@@ -1,7 +1,7 @@
 # PearlHacks18
-\\
-What we have:
-\\
+\
+What we have: \
+\
 This is a work-in-progress news bot with a website geared to make people contribute their spare change to a good cause.
 The current bot brings you the top five articles within the last three days about global crisis using Bandwidth and Webhose APIs.
 Our goal is to make donating as efficient, environmental-friendly, and personal as possible. 
