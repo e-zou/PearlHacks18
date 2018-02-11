@@ -29,8 +29,8 @@ def trim_text(str):
 # Web crawler that finds information on news articles
 webhoseio.config(token="99ea9e40-d0a0-4407-9c0a-2b9b94144549")
 query_params = {
-    "q": "language:english performance_score:>0 (title:\"Hurricane\" OR title:\"State of Emergency\" OR title:\"Blizzard\" OR title:\"Earthquake\" OR title:\"Tsunami\") site_type:news -buzzfeed.com -nhl.com -espn.com -gamespot.com",
-    "sort": "crawled"
+    "q": "language:english performance_score:>0 (title:\"Hurricane\" OR title:\"State of Emergency\" OR title:\"Earthquake\" ) (site_type:news -buzzfeed.com -nhl.com -espn.com -gamespot.com ) thread.title:(-thread.title:game -thread.title:GOP -thread.title:democrat -thread.title:prostitute -thread.title:sex -thread.title:court)",
+	"sort": "crawled"
 }
 output = webhoseio.query("filterWebContent", query_params)
 # title of news articles
