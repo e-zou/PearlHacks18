@@ -6,7 +6,7 @@ In other words, we believe that donating should be your personal choice. Bringin
 Instead of that, let's protect the environment by going paperless, and choose to give on our own accord. 
 
 Future development thoughts: 
-We hope to make the texting bot send automatic push notifications that are customizable in terms of the frequency of updates, so people are not overwhelmed by depressing news all the time. In the future, we hope the add a way for people to automatically contribute money from their banking accounts just by texting 'yes' or 'no' to questions. Of course, there is still a long way to go and many factors to consider, but we are hoping the future of giving to charities will be a smoother process than it is now. 
+We hope to make a subscriptional texting bot send automatic push notifications that are customizable in terms of the frequency of updates, so people are not overwhelmed by depressing news all the time. In the future, we hope the add a way for people to automatically contribute money from their banking accounts just by texting 'yes' or 'no' to questions. Of course, there is still a long way to go and many factors to consider, but we are hoping the future of giving to charities will be a smoother process than it is now. 
 
 
 TLDR;
