@@ -10,7 +10,7 @@ We hope to make the texting bot send automatic push notifications that are custo
 
 
 TLDR;
-What it is: Text bot bringing terrible news for a good cause \n
-Who: Targets people who care; people who might not read the news often but have a kind heart \n
-Why: there are many issues in the world that could be solved with volunteering or money; natural diasters usually causes the biggest damage and the most money; we don't want people to waste paper and destroy the environment while trying to promote their own good cause \n
+What it is: Text bot bringing terrible news for a good cause 
+Who: Targets people who care; people who might not read the news often but have a kind heart 
+Why: there are many issues in the world that could be solved with volunteering or money; natural diasters usually causes the biggest damage and the most money; we don't want people to waste paper and destroy the environment while trying to promote their own good cause 
 Future Development: We hope to make this bot more interactive to answer more questions and customizable so people are automatically updated with news 
